@@ -1,0 +1,27 @@
+.container-error{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container-error img{
+    max-width: 300px;
+    margin: 24px 0;
+}
+
+.container-error h1{
+    color: #FFF;
+}
+
+.container-error a{
+    color: #132742;
+    background-color: #FFF;
+    text-decoration: none;
+    padding: 12px 18px;
+    border-radius: 4px;
+    margin: 14px 0;
+    font-weight: bold;
+}
